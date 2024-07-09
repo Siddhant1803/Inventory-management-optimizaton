@@ -1,7 +1,7 @@
 # Inventory Management Optimization
 
 ## Situation:
-### Our organization faced challenges with data accuracy and consistency in inventory management, which hindered effective analysis and decision-making. There was a need to improve the accuracy and consistency of inventory data to enhance operational visibility.
+### An organization faced challenges with data accuracy and consistency in inventory management, which hindered effective analysis and decision-making. There was a need to improve the accuracy and consistency of inventory data to enhance operational visibility.
 
 ## Task:
 ### My task was to load, clean, and transform inventory data to improve its accuracy and consistency, and to develop interactive dashboards to monitor inventory levels and turnover rates.
